@@ -1,0 +1,12 @@
+map_name: ww2v3_variants
+games:
+- {game_name: WWIIv3 1942 Move-Buy-Move, file_name: WW2v3-1942-MBM.xml}
+- {game_name: WWIIv3 1941 Move-Then-Buy, file_name: WW2v3-1941CB4P.xml}
+- {game_name: WWIIv3 1941 Tech Advance, file_name: WW2v3-1941-TechAdvance.xml}
+- {game_name: WWIIv3 1941 UK Factory, file_name: WW2v3-1941_UKfactory.xml}
+- {game_name: WWIIv3 1941 China Mod, file_name: WW2v3-1941_ChinaMod.xml}
+- {game_name: WWIIv3 3 Alliances, file_name: WW2v3-1941-3Teams.xml}
+- {game_name: WWIIv3 1941 Move-Buy-Move, file_name: WW2v3-1941-MBM.xml}
+- {game_name: WWIIv3 FFA, file_name: WW2v3-1941FFA.xml}
+- {game_name: WWIIv3 1941 Free Tech, file_name: WW2v3-1941-freetech.xml}
+- {game_name: WWIIv3 1942 Move-Then-Buy, file_name: WW2v3-1942CB4P.xml}
